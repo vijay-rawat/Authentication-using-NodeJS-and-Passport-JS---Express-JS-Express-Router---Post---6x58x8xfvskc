@@ -27,4 +27,4 @@ if (!module.parent)
 // UserDetails.register({ username: 'Matt', active: false }, 'matt123');
 //The above statement states that the database already contains a user with username Matt and password matt123, you can register your own user info by uncommenting the above line and entering any username and password pair.
 
-module.exports = app
+module.exports = app 
